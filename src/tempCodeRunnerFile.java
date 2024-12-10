@@ -1,0 +1,2 @@
+
+            foundedChar[i] = '_';
